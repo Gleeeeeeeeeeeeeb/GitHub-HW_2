@@ -1,0 +1,6 @@
+Check List		Результат			Коментарий
+			Chrome	Opera	Firefox
+1
+2
+3
+4...
