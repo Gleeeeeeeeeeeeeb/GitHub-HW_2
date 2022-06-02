@@ -1,0 +1,9 @@
+1. id
+2. краткое описание (Summary)
+3. окружение (Enviroment)
+4. шаги к воспроизведению (Steps to reproduce)
+5. актуальный результат (Actual Result)
+6. ожидаемый результат (Expected Result)
+7. серьезность (Severity)
+8. приоритет (Priority)
+9. прикрепленный файл (Attachment)
